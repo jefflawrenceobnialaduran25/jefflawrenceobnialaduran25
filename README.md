@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on this assignment and a game with my team
-- 🌱 I’m currently learning pixel art and programming
+- 🌱 I’m currently learning pixel art, blender and programming
 - 👯 I’m looking to collaborate on creating games
 - 🤔 I’m looking for help with programming on C#
 - 💬 Ask me about anything
